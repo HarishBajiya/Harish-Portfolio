@@ -149,6 +149,15 @@
                     year: "2018",
                     img: require('@/assets/carshowroom.png')
                 },
+                {
+                    title: "ShatRanj - AI",
+                    subtitle: "A chess Game.",
+                    desc: "A chess engine written in JavaScript. AI uses Min‐Max Algorithm in Game Decision Tree with Alpha‐Beta pruning for time optimization. Used Piece‐Square Tables for the board evaluation at each step.",
+                    lang: "JavaScript",
+                    source: "https://github.com/HarishBajiya/Shatranj-AI-Chess",
+                    year: "2021",
+                    img: require('@/assets/Chess.png')
+                },
         ],
 
         })
