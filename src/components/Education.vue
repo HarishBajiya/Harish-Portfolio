@@ -144,6 +144,7 @@
                 {"skillName": "Programming", "skillSets": [
                         {"name": "Kotlin", "exp": 4},
                         {"name": "Java", "exp": 4},
+                        {"name": "MySQL", "exp": 4},
                         {"name": "Python", "exp": 4},
                         {"name": "C & C++", "exp": 5},
                     ]},
@@ -155,6 +156,7 @@
                 {"skillName": "Web Development", "skillSets": [
                         {"name": "Vue JS", "exp": 4},
                         {"name": "HTML 5", "exp": 5},
+                        {"name": "REACT JS 5", "exp": 4},
                         {"name": "SASS & CSS", "exp": 5},
                         {"name": "Node JS", "exp": 3},
                     ]},
