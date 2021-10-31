@@ -273,7 +273,7 @@
             phn:"   +91-8209117107",
             college:"  Army Institute of Technology, Pune",
             myimage: require('@/assets/myimage.jpg'),
-            me: "I'm Harish Bajiya. You can call me Harry. I am Web Developer and Android Developer.",
+            me: "I'm Harish Bajiya. You can call me Harry. I am Web Developer, Android Developer and Competitive Programmer. I'm an expert on Codeforces and 4* at codechef",
             memore:"I am a freelancer based in the Jaipur, RJ, India and i have the knowledge to building android apps and websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.",
             title1resume : "Services i offer to my clients",
             bg : require('@/assets/mainbg.jpg'),
