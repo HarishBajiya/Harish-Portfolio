@@ -27,6 +27,11 @@ const socialIcons = [
         "link": "https://www.linkedin.com/in/harish-bajiya-1232a3158/",
         "icon": "mdi-linkedin"
     },
+    {
+        "name": "CodeForces",
+        "link": "https://codeforces.com/profile/Dense-Eclipse",
+        "icon": "mdi-language-cpp"
+    },
     ];
 
 export default socialIcons;
